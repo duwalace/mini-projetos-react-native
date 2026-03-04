@@ -1,50 +1,44 @@
-# Welcome to your Expo app 👋
+# 📱 Projetos Práticos - React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Repositório contendo uma coleção de aplicativos mobile desenvolvidos com React Native e Expo. Estes projetos fazem parte das atividades práticas e do meu desenvolvimento técnico no curso de Análise e Desenvolvimento de Sistemas no Senai.
 
-## Get started
+## 🚀 Aplicativos Desenvolvidos
 
-1. Install dependencies
+Este repositório consolida 4 projetos focados na construção de interfaces e manipulação de estado (`useState`):
 
+* **🧮 Calculadora:** Aplicativo de cálculo com interface limpa e responsiva.
+* **🪪 Cartão de Visita:** Tela de perfil profissional utilizando componentes reutilizáveis (`InfoItem`) e estilização condicional.
+* **🔢 Contador Interativo:** Aplicativo de contagem com mudança dinâmica de cores baseada no valor atual (positivo, negativo ou neutro).
+* **⚽ Placar de Jogo (Desafio):** Placar eletrônico completo para dois times, contendo histórico de pontuação, botão de anular o último ponto e destaque visual automático para o time vencedor.
+
+## 📸 Telas dos Aplicativos
+
+<p align="center">
+  <img src="./assets/calculadora.png" width="220" alt="Tela da Calculadora" />
+  <img src="./assets/cartao.png" width="220" alt="Tela do Cartão de Visita" />
+  <img src="./assets/contador.png" width="220" alt="Tela do Contador" />
+  <img src="./assets/placar.png" width="220" alt="Tela do Placar" />
+</p>
+
+## 🛠️ Tecnologias Utilizadas
+
+* **React Native:** Biblioteca principal para construção da interface mobile.
+* **Expo:** Framework que facilita o desenvolvimento, build e testes no dispositivo físico.
+* **TypeScript:** Adição de tipagem estática (como as `Props` nos componentes) para um código mais seguro.
+
+## ⚙️ Como executar o projeto
+
+1. Clone este repositório:
    ```bash
-   npm install
-   ```
+   git clone [https://github.com/EduardoWalace/NOME_DO_SEU_REPOSITORIO.git](https://github.com/EduardoWalace/NOME_DO_SEU_REPOSITORIO.git)
+Instale as dependências:
 
-2. Start the app
+Bash
+npm install
+Inicie o servidor do Expo:
 
-   ```bash
-   npx expo start
-   ```
+Bash
+npx expo start
+Escaneie o QR Code gerado no terminal com o aplicativo Expo Go no seu celular (Android ou iOS).
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Desenvolvido com dedicação por Eduardo Walace. 🚀
