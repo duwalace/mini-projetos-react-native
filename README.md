@@ -14,10 +14,10 @@ Este repositório consolida 4 projetos focados na construção de interfaces e m
 ## 📸 Telas dos Aplicativos
 
 <p align="center">
-  <img src="./assets/calculadora.png" width="220" alt="Tela da Calculadora" />
-  <img src="./assets/cartao.png" width="220" alt="Tela do Cartão de Visita" />
-  <img src="./assets/contador.png" width="220" alt="Tela do Contador" />
-  <img src="./assets/placar.png" width="220" alt="Tela do Placar" />
+  <img src="./assets/calculadora.jpg" width="220" alt="Tela da Calculadora" />
+  <img src="./assets/cartao.jpg" width="220" alt="Tela do Cartão de Visita" />
+  <img src="./assets/contador.jpg" width="220" alt="Tela do Contador" />
+  <img src="./assets/placar.jpg" width="220" alt="Tela do Placar" />
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
